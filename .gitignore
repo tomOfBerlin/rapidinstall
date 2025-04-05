@@ -1,0 +1,4 @@
+dist/*
+src/rapidinstall.egg-info/*
+old/*
+*.pyc

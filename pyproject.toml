@@ -1,0 +1,33 @@
+# pyproject.toml
+
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rapidinstall"
+version = "0.9.0"
+authors = [
+    { name="Tom", email="chief-scouter0f@icloud.com" },
+]
+description = "Downloads, Installs in paralell - A utility to run multiple shell command sequences (e.g., installations) in parallel with status updates."
+readme = "README.md"
+
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE"]
+requires-python = ">=3"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: System Administrators",
+	"Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: System :: Installation/Setup",
+    "Topic :: Utilities",
+]
+keywords = ["setup", "parallel", "subprocess", "install", "shell", "script", "automation", "concurrent", "colab"]
+
+[project.urls]
+"Homepage" = "https://github.com/tomOfBerlin/rapidinstall"
+"Bug Tracker" = "https://github.com/tomOfBerlin/rapidinstall/issues"
