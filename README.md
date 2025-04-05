@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tomOfBerlin/rapidinstall/refs/heads/main/Bolt.png" alt="Bolt the Builder Bot - RapidInstall Mascot" width="200">
+  <img src="https://raw.githubusercontent.com/tomofberlin/rapidinstall/master/Bolt.png" alt="Bolt the Builder Bot - RapidInstall Mascot" width="200">
 </p>
 
 # rapidinstall
